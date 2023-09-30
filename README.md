@@ -13,7 +13,7 @@ Follow these simple steps to get GitAutoInstaller up and running on your system:
 
 1. Clone this repository to your local machine.
 2. Navigate to the appropriate directory for your operating system (Windows or Linux).
-3. Run the provided script (e.g., `install-git.sh` for Linux or `install-git.bat` for Windows).
+3. Run the provided script (e.g., `git-installer.sh` for Linux or `git-installer.bat` for Windows).
 4. Follow the on-screen instructions to complete the Git installation.
 
 ## Usage
